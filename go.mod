@@ -1,4 +1,4 @@
-module github.com/olumidayy/laughing-bassoon
+module github.com/olumidayy/go-github
 
 go 1.17
 
