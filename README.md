@@ -12,7 +12,7 @@ You can decide to do one of two things:
 
 - Clone the repository
 ```
-$ git clone https://github.com/olumidayy/bckdrp.git
+$ git clone https://github.com/olumidayy/go-github.git
 ```
  After cloning, you can then build the tool by running:
  ```
@@ -64,11 +64,10 @@ These can be demonstrated as follows:
  Fetching olumidayy's repository data...
  Name: bckdrp
  Description: A GraphQL API for shortening URLs
- Author: olumidayy
 
  Name: birthday_reminder
  Description: Utility app to remind of loved ones' birthdays made with flutter.
- Author: olumidayy
+ .....
 ```
 
 ```
