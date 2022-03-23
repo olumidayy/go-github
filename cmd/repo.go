@@ -29,8 +29,8 @@ type Repository struct {
 func parseRepositoryData(r Repository, full bool) {
 	fmt.Println("Name: " + r.Name)
 	fmt.Println("Description: " + r.Description)
-	fmt.Println("Author: " + r.Author.Username)
 	if full {
+		fmt.Println("Author: " + r.Author.Username)
 		fmt.Println("Language: " + r.Language)
 		fmt.Printf("Stars: %d\n", r.Stars)
 		fmt.Printf("Forks: %d\n", r.Forks)
