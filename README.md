@@ -46,12 +46,12 @@ Location: Lagos, Nigeria
 ```
 
 The `repo` command can be used in two ways:
- - Passing just a username;
+ - Passing just a username:
  ```
  $ go-github repo <USERNAME>
  ```
  This returns the name and description of all the user's public repositories.
- - Passing both a username and a repository name as arguments;
+ - Passing both a username and a repository name as arguments:
  ```
  $ go-github repo <USERNAME> <REPO_NAME>
  ```
