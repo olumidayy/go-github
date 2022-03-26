@@ -78,9 +78,9 @@ These can be demonstrated as follows:
  Description: A CLI tool for communicating with github.
  Author: olumidayy
  Language: Go
- Stars: 0
+ Stars: 13
  Forks: 0
- Watchers: 0
+ Watchers: 13
  Year: 2022
 ```
 
