@@ -38,8 +38,8 @@ $ go-github user olumidayy
 Just fetched olumidayy's data.
 Name: Olumide Nwosu
 Username: olumidayy
-Followers: 33
-Following: 16
+Followers: 55
+Following: 19
 Public Repositories: 26
 Public Gists: 33
 Location: Lagos, Nigeria
@@ -59,7 +59,7 @@ The `repo` command can be used in two ways:
  
 These can be demonstrated as follows:
 ```
- $ go-github repo olumidayy
+ $ go-github repo olumidayy bckdrp
 
  Fetching olumidayy's repository data...
  Name: bckdrp
