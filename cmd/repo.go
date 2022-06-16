@@ -44,7 +44,8 @@ func parseRepositoryData(r Repository, full bool) {
 var repoCmd = &cobra.Command{
 	Use:   "repo",
 	Short: "Fetches info for a github repository.",
-	Long:  `Fetches info for a github repository.`,
+	Long:  `Fetches info for a github repository. If the repository
+                name is not passed, it returns a summary of all the user's public repositories.`,
 	Run: func(cmd *cobra.Command, args []string) {
 		var repository_name, user, URL string
 		if len(args) >= 1 && args[0] != "" {
