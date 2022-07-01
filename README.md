@@ -25,7 +25,7 @@ $ git clone https://github.com/olumidayy/go-github.git
  $ go install
  ```
  
-### Install tool directly in your project
+### Install the tool directly in your project
 ```
 $ go install github.com/olumidayy/go-github@latest
 ```
