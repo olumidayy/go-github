@@ -14,10 +14,17 @@ You can decide to do one of two things:
 ```
 $ git clone https://github.com/olumidayy/go-github.git
 ```
- After cloning, you can then build the tool by running:
+ After cloning go-github, build the tool by running:
  ```
  $ go build
+ 
  ```
+ Then add go-github to your Go binaries using the `install` command.
+ 
+ ```
+ $ go install
+ ```
+ 
 - Or just install tool directly in your project.
 ```
 $ go install github.com/olumidayy/go-github@latest
