@@ -17,6 +17,7 @@ $ git clone https://github.com/olumidayy/go-github.git
  After cloning, you can then build the tool by running:
  ```
  $ go build
+ $ go install
  ```
 - Or just install tool directly in your project.
 ```
