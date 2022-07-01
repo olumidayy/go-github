@@ -10,7 +10,7 @@
 
 You can decide to do one of two things:
 
-- Clone the repository
+### Clone the repository
 ```
 $ git clone https://github.com/olumidayy/go-github.git
 ```
@@ -19,13 +19,13 @@ $ git clone https://github.com/olumidayy/go-github.git
  $ go build
  
  ```
- Then add go-github to your Go binaries using the `install` command.
+ To be able to use go-github globally, add it to your Go binaries using the `install` command.
  
  ```
  $ go install
  ```
  
-- Or just install tool directly in your project.
+### Install the tool directly in your project
 ```
 $ go install github.com/olumidayy/go-github@latest
 ```
