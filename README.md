@@ -10,7 +10,7 @@
 
 You can decide to do one of two things:
 
-### Clone the repository
+### 1. Clone the repository
 ```
 $ git clone https://github.com/olumidayy/go-github.git
 ```
@@ -25,7 +25,7 @@ $ git clone https://github.com/olumidayy/go-github.git
  $ go install
  ```
  
-### Install the tool directly in your project
+### 2. Install the tool directly in your project
 ```
 $ go install github.com/olumidayy/go-github@latest
 ```
