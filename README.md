@@ -66,7 +66,7 @@ The `repo` command can be used in two ways:
  
 These can be demonstrated as follows:
 ```
- $ go-github repo olumidayy bckdrp
+ $ go-github repo olumidayy
 
  Fetching olumidayy's repository data...
  Name: bckdrp
